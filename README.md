@@ -1,2 +1,2 @@
-# Panther Playz
-This repository is for Codes that i Made in My Youtube Channel: Futuristic Studio_Tamil
+# Coding Universe
+This repository is for Codes for Our Official Coding Universe Dc Server, Coding Universe: https://discord.gg/B7tZrUaHpw
